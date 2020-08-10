@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# Materials
+### Day 1
+[Slides](probability_for_machine_learning_slides_day1.pdf)	[Slides](probability_for_machine_learning_slides_day1.pdf)
 
-You can use the [editor on GitHub](https://github.com/karink520/probability-for-ML/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Demo Notebook](https://colab.research.google.com/drive/1QW3G_hYhV6oiEso8UIWtl3-CtWPPmtLl?usp=sharing)	[Demo Notebook](https://colab.research.google.com/drive/1QW3G_hYhV6oiEso8UIWtl3-CtWPPmtLl?usp=sharing)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karink520/probability-for-ML/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Exercises](https://colab.research.google.com/drive/19p6Oyd11sl-rIzeki9eKMbypB2Zxnj5L?usp=sharing)	
