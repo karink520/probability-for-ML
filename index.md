@@ -7,7 +7,7 @@ Machine learning techniques are increasingly applicable in a wide range of field
 This course will aimed primarily at two main audiences: those who are just beginning a foray into machine learning and who wish to begin with a solid probabilistic foundation, and those who have experience applying machine learning methodology as somewhat of a "black box" and who wish to bring a principled probabilist perspective to bear on these techniques.
 
 
-Prerequisites: Calculus (even if it's a somewhat distant memory). Some knowledge of Python would also bebeneficial.
+Prerequisites: Calculus (even if it's a somewhat distant memory). Some knowledge of Python would also beneficial.
 
 
 ## Materials
