@@ -17,3 +17,5 @@ Prerequisites: Calculus (even if it's a somewhat distant memory). Some knowledge
 [Demo Notebook](https://colab.research.google.com/drive/1QW3G_hYhV6oiEso8UIWtl3-CtWPPmtLl?usp=sharing)
 
 [Exercises](https://colab.research.google.com/drive/19p6Oyd11sl-rIzeki9eKMbypB2Zxnj5L?usp=sharing)	
+
+[Exercise solutions](https://colab.research.google.com/drive/1yRWyYEUSufUxyRavJ2zUJvaxxCPUHcRr?usp=sharing)
