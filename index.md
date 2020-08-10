@@ -19,3 +19,5 @@ Prerequisites: Calculus (even if it's a somewhat distant memory). Some knowledge
 [Exercises](https://colab.research.google.com/drive/19p6Oyd11sl-rIzeki9eKMbypB2Zxnj5L?usp=sharing)	
 
 [Exercise solutions](https://colab.research.google.com/drive/1yRWyYEUSufUxyRavJ2zUJvaxxCPUHcRr?usp=sharing)
+
+For a little more about the beta-binomial setup of the coin-flipping example, the first sections of this [blog post](https://karinknudson.com/dirichletprocesses.html) discuss the specifics of the beta prior and posterior in more detail.
