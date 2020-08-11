@@ -21,3 +21,12 @@ Prerequisites: Calculus (even if it's a somewhat distant memory). Some knowledge
 [Exercise solutions](https://colab.research.google.com/drive/1yRWyYEUSufUxyRavJ2zUJvaxxCPUHcRr?usp=sharing)
 
 For a little more about the beta-binomial setup of the coin-flipping example, the first sections of this [blog post](https://karinknudson.com/dirichletprocesses.html) discuss the specifics of the beta prior and posterior in more detail.
+
+### Day 2
+[Slides](probability_for_machine_learning_slides_day2.pdf)
+
+[Exercises](https://colab.research.google.com/drive/18OawSMRYwPlUFrJKduX1kjtoJWwSKXAB?usp=sharing)	
+
+[Regression notebook](https://colab.research.google.com/drive/1QXWgX7VjX5-fJvNSwqeHN-PetEl8eTdF?usp=sharing)
+
+Reference: [Pattern Recognition and Machine Learning, Christopher Bishop](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
