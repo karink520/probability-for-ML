@@ -38,4 +38,4 @@ Reference: [Pattern Recognition and Machine Learning, Christopher Bishop](https:
 
 [Regression notebook 2](https://colab.research.google.com/drive/1VQyRKw2SNv2_ii3ciaOx7aiyWZOcvmLH?usp=sharing)
 
-[Dataset for regression notebook](Hitters.csv)
+[Dataset for regression notebook](Hitters.csv) (from Introduction to Statistical Learning by James, Witten, Hastie, and Tibshirani)
