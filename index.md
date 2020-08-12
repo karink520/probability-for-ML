@@ -30,3 +30,8 @@ For a little more about the beta-binomial setup of the coin-flipping example, th
 [Regression notebook](https://colab.research.google.com/drive/1QXWgX7VjX5-fJvNSwqeHN-PetEl8eTdF?usp=sharing)
 
 Reference: [Pattern Recognition and Machine Learning, Christopher Bishop](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+
+### Day 3
+[Slides](probability_for_machine_learning_slides_day3.pdf)
+[Exercises](https://colab.research.google.com/drive/1HFjdvjSDZ1EFcF6aY4AkfpVPbqRne-oP?usp=sharing)
+[Regression notebook 2](https://colab.research.google.com/drive/1VQyRKw2SNv2_ii3ciaOx7aiyWZOcvmLH?usp=sharing)
