@@ -37,3 +37,5 @@ Reference: [Pattern Recognition and Machine Learning, Christopher Bishop](https:
 [Exercises](https://colab.research.google.com/drive/1HFjdvjSDZ1EFcF6aY4AkfpVPbqRne-oP?usp=sharing)
 
 [Regression notebook 2](https://colab.research.google.com/drive/1VQyRKw2SNv2_ii3ciaOx7aiyWZOcvmLH?usp=sharing)
+
+[Dataset for regression notebook](Hitters.csv)
