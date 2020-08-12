@@ -33,5 +33,7 @@ Reference: [Pattern Recognition and Machine Learning, Christopher Bishop](https:
 
 ### Day 3
 [Slides](probability_for_machine_learning_slides_day3.pdf)
+
 [Exercises](https://colab.research.google.com/drive/1HFjdvjSDZ1EFcF6aY4AkfpVPbqRne-oP?usp=sharing)
+
 [Regression notebook 2](https://colab.research.google.com/drive/1VQyRKw2SNv2_ii3ciaOx7aiyWZOcvmLH?usp=sharing)
