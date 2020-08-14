@@ -11,8 +11,10 @@ Prerequisites: Calculus (even if it's a somewhat distant memory). Some knowledge
 
 
 ## Materials
+
+[Slides](probability_for_machine_learning_slides.pdf)
+
 ### Day 1
-[Slides](probability_for_machine_learning_slides_day1.pdf)
 
 [Demo Notebook](https://colab.research.google.com/drive/1QW3G_hYhV6oiEso8UIWtl3-CtWPPmtLl?usp=sharing)
 
@@ -23,7 +25,6 @@ Prerequisites: Calculus (even if it's a somewhat distant memory). Some knowledge
 For a little more about the beta-binomial setup of the coin-flipping example, the first sections of this [blog post](https://karinknudson.com/dirichletprocesses.html) discuss the specifics of the beta prior and posterior in more detail.
 
 ### Day 2
-[Slides](probability_for_machine_learning_slides_day2.pdf)
 
 [Exercises](https://colab.research.google.com/drive/18OawSMRYwPlUFrJKduX1kjtoJWwSKXAB?usp=sharing)	
 
@@ -32,7 +33,6 @@ For a little more about the beta-binomial setup of the coin-flipping example, th
 Reference: [Pattern Recognition and Machine Learning, Christopher Bishop](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
 ### Day 3
-[Slides](probability_for_machine_learning_slides_day3.pdf)
 
 [Exercises](https://colab.research.google.com/drive/1HFjdvjSDZ1EFcF6aY4AkfpVPbqRne-oP?usp=sharing)
 
@@ -42,13 +42,9 @@ Reference: [Pattern Recognition and Machine Learning, Christopher Bishop](https:
 
 ### Day 4
 
-[Slides](probability_for_machine_learning_slides_day4.pdf)
-
 [Exercises](https://colab.research.google.com/drive/1dIbZXBXBWg910HhKpxNyPZljjFF0OZfM?usp=sharing)
 
 ### Day 5
-
-[Slides](probability_for_machine_learning_slides_day5.pdf)
 
 [Exercises](https://colab.research.google.com/drive/1Kkdd41Ev6tezHq1OZWtJYVcglRG3lrkd#scrollTo=Qe2pXFn824TA)
 
