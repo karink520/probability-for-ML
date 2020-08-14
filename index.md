@@ -49,5 +49,6 @@ Reference: [Pattern Recognition and Machine Learning, Christopher Bishop](https:
 ### Day 5
 
 [Slides](probability_for_machine_learning_slides_day5.pdf)
+
 [Exercises](https://colab.research.google.com/drive/1Kkdd41Ev6tezHq1OZWtJYVcglRG3lrkd#scrollTo=Qe2pXFn824TA)
 
