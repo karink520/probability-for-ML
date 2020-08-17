@@ -12,6 +12,8 @@ Prerequisites: Calculus (even if it's a somewhat distant memory). Some knowledge
 
 ## Materials
 
+### Slides
+
 [Slides](probability_for_machine_learning_slides.pdf)
 
 ### Day 1
